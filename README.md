@@ -8,6 +8,6 @@ Back-end is created using DJANGO
 
 DataBase used is sqlite
 
-To run this app on your system clone this repository and type "python main.py runserver" on your terminal
+To run this app on your system clone this repository and type "python manage.py runserver" on your terminal
 
 Make sure Django is installed on your system
